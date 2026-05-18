@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Thanushree 👋
 
-<!--
-**thanushreekmurthy1999-hub/thanushreekmurthy1999-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist at Purdue's Krenicki Center for Business Analytics & Machine Learning. Graduating MSBAIM (Data Science & AI Concentration), Aug 2026. Previously 2 years in talent and workforce analytics at Deloitte USI.
 
-Here are some ideas to get you started:
+## 🛠 Currently working on
+- Multilingual NLP and sentiment analysis at scale
+- Agentic AI systems with LangGraph + GPT-4o
+- Forecasting pipelines for nonprofit and enterprise use cases
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech I use most
+Python · SQL · Transformers · LangGraph · scikit-learn · XGBoost · Tableau · AWS · Snowflake
+
+## 📫 Reach out
+[LinkedIn](https://linkedin.com/in/thanushreekmurthy) · thanushreekeshavamurthy@gmail.com
