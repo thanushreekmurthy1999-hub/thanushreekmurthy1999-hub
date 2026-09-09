@@ -1,6 +1,6 @@
 # Hi, I'm Thanushree 👋
 
-Data Scientist at Purdue's Krenicki Center for Business Analytics & Machine Learning. Graduating MSBAIM (Data Science & AI Concentration), Aug 2026. Previously 2 years in talent and workforce analytics at Deloitte USI.
+I was a Data Scientist at Purdue's Krenicki Center for Business Analytics & Machine Learning. Graduated from MSBAIM (Data Science & AI Concentration), Aug 2026. Previously 2 years in talent and workforce analytics at Deloitte USI.
 
 ## 🛠 Currently working on
 - Multilingual NLP and sentiment analysis at scale
